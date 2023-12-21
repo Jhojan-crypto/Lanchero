@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "436511560985",
+    "project_id": "lanchero-8f72c",
+    "storage_bucket": "lanchero-8f72c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436511560985:android:af8806e1835f8e92c82188",
+        "android_client_info": {
+          "package_name": "com.example.lanchero"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfpwZUcpuDZh5HU-2-htmQH3-a6bOs2UE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436511560985:android:17de77e18956e295c82188",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfpwZUcpuDZh5HU-2-htmQH3-a6bOs2UE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
